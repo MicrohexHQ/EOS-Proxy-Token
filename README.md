@@ -122,5 +122,3 @@ The guys from EOS Bet threw this together.
         return str;
      }
 ```
-
-
